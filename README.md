@@ -1,13 +1,11 @@
 # Hi Fellow Devs :wave:
-
 <p align="center">
   <samp>
 I'm CBAJoker (Cadet),
     Web Developer, Software engineer and student 
     from Karachi (Pakistan).
   </samp>
-  <br/>
-  
+  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
   <img src="https://github-readme-stats.vercel.app/api?username=CBAJoker&theme=vue-dark&show_icons=true&hide_border=false&count_private=true">
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
@@ -15,6 +13,7 @@ I'm CBAJoker (Cadet),
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 </p>
 
 
