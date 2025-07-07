@@ -1,30 +1,63 @@
-# Hi Fellow Devs :wave:
+<h1 align="center">Hi 👋, I'm <code>CBA</code></h1>
 <p align="center">
-  <samp>
-I'm CBAJoker (Cadet),
-    Web Developer, Software engineer and student 
-    from Karachi (Pakistan).
-  </samp>
-  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-  <img src="https://github-readme-stats.vercel.app/api?username=CBAJoker&theme=vue-dark&show_icons=true&hide_border=false&count_private=true">
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://camo.githubusercontent.com/d11bc5fc022603363226da69441297bc1f6dda6cd6253d80f5ed010125810aad/68747470733a2f2f692e696d6775722e636f6d2f534931445a66332e706e67"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+  <em>Cadet | Web Developer | Software Engineer | Tech Explorer from Karachi, Pakistan 🇵🇰</em>
 </p>
 
+<p align="center">
+  <img src="https://i.imgur.com/LyHic3i.gif" width="200px" />
+</p>
 
-# <h1 align="center"> <code>[<img src="https://pbs.twimg.com/media/Dsw0HsjWwAA-8fE.jpg" height="110px">](https://www.facebook.com/joansebastian.cardozosalinas.925/)⠀Lets Have⠀|⠀⠀Fun⠀⠀| [<img src="https://spotify-github-profile.vercel.app/api/view?uid=uwjnzqtalkghfb2gd7ueltxzb&cover_image=true&theme=novatorem&bar_color=ff0000&bar_color_cover=falsespo" background="#fff" height="110px">](https://open.spotify.com/user/uwjnzqtalkghfb2gd7ueltxzb)</code> </h1>
+---
 
-- 👋 Hi, I’m @CBAJoker
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 📫 How to reach me ...
+### 🧠 About Me
+- 🌱 Currently exploring **Full Stack Development**, **DevOps**, and **Linux Internals**
+- 🔭 Passionate about **Open Source**, **Cybersecurity**, and building scalable systems
+- 🎯 Obsessed with learning tools that make dev life easier (Docker, Git, CLI automation)
+- 🧑‍💻 Constantly upgrading my skills with real-world projects
 
-<!---
-CBAJoker/CBAJoker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### 🛠️ Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,mongodb,python,bash,vscode,github,linux,docker" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CBAJoker&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=CBAJoker&theme=tokyonight&hide_border=false" />
+</p>
+
+---
+
+### 📚 Currently Reading
+<p align="center">
+  <a href="https://en.wikipedia.org/wiki/Pir-e-Kamil" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/en/3/33/Pir-e-Kamil.jpg" alt="Peer-e-Kamil by Umera Ahmed" width="200px" style="border-radius:10px; box-shadow:0 4px 8px rgba(0,0,0,0.2);" />
+  </a>
+</p>
+<p align="center">
+  <em>“Peer-e-Kamil” by Umera Ahmed is a soul-stirring journey of self-discovery, faith, and truth — a must-read for seekers.</em>
+</p>
+
+---
+
+### 📬 Contact Me
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/cbajoker) (or add yours)
+- 💬 Ask me anything on [Twitter](https://twitter.com/CBAJoker)
+- 🧠 Follow my learning on [GitHub](https://github.com/CBAJoker)
+
+---
+
+### 💡 Quote of the Day
+> _"The quieter you become, the more you are able to hear."_ — **Rumi**
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=CBAJoker&label=Profile+Views&color=blueviolet&style=flat-square" alt="profile views" />
+</p>
