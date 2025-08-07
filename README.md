@@ -36,9 +36,9 @@
 
 ### 📚 Currently Reading
 <p align="center">
-  <a href="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1441831053i/3260388.jpg" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/en/3/33/Pir-e-Kamil.jpg" alt="Peer-e-Kamil by Umera Ahmed" width="200px" style="border-radius:10px; box-shadow:0 4px 8px rgba(0,0,0,0.2);" />
-  </a>
+  
+<img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1441831053i/3260388.jpg" alt="Peer-e-Kamil by Umera Ahmed" width="200px" style="border-radius:10px; box-shadow:0 4px 8px rgba(0,0,0,0.2);" />
+
 </p>
 <p align="center">
   <em>“Peer-e-Kamil” by Umera Ahmed is a soul-stirring journey of self-discovery, faith, and truth — a must-read for seekers.</em>
