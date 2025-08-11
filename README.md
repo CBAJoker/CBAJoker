@@ -47,7 +47,7 @@
 ---
 
 ### 📬 Contact Me
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/cbajoker) (or add yours)
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/services/page/85407333977850761a/) (or add yours)
 - 💬 Ask me anything on [Twitter](https://twitter.com/CBAJoker)
 - 🧠 Follow my learning on [GitHub](https://github.com/CBAJoker)
 
