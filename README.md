@@ -1,108 +1,89 @@
-```text
- ██████╗██████╗  █████╗      ██╗ ██████╗ ██╗  ██╗███████╗██████╗ 
-██╔════╝██╔══██╗██╔══██╗     ██║██╔═══██╗██║ ██╔╝██╔════╝██╔══██╗
-██║     ██████╔╝███████║     ██║██║   ██║█████╔╝ █████╗  ██████╔╝
-██║     ██╔══██╗██╔══██║██   ██║██║   ██║██╔═██╗ ██╔══╝  ██╔══██╗
-╚██████╗██████╔╝██║  ██║╚█████╔╝╚██████╔╝██║  ██╗███████╗██║  ██║
- ╚═════╝╚═════╝ ╚═╝  ╚═╝ ╚════╝  ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
-  [ SYSTEM: ONLINE ]  ::  [ NODE: MUHAMMAD_MASOOM ]  ::  [ THEME: TOKYO_NIGHT ]
-```
+# ✦ MUHAMMAD MASOOM — `CBAJoker`
 
-[](https://cbajoker.github.io/Portfolio/)
+**Computer Science Undergraduate  ·  Polymath Systems Explorer  ·  Full-Spectrum Technologist**
 
-[](https://cbajoker.github.io/Portfolio/) [](mailto:cadetmasoom@gmail.com) [GitHub](https://www.google.com/search?q=https://github.com/CBAJoker) 
+> *"Why confine yourself to a single room when the entire architecture of computing is waiting to be explored?"*
+
+**🌐 Executive Portfolio:** [cbajoker.github.io/Portfolio](https://cbajoker.github.io/Portfolio/)  ·  **✉️ Direct Inquiries:** [cadetmasoom@gmail.com](mailto:cadetmasoom@gmail.com)  ·  **🏛️ GitHub:** [github.com/CBAJoker](https://www.google.com/url?sa=E&source=gmail&q=https://github.com/CBAJoker)
 
 ---
 
-## ⚡ `root@CBAJoker:~# cat /etc/motd.txt`
+### ⚜️ I. THE MANIFESTO
 
-```yaml
-USER_PROFILE:
-  name: "Muhammad Masoom"
-  alias: "CBAJoker"
-  role: "Computer Science Undergraduate"
-  archetype: "Jack of All Trades, Master of None — Curious Explorer of Everything CS"
-  contact: "cadetmasoom@gmail.com"
-  web_portal: "https://cbajoker.github.io/Portfolio/"
+I am **Muhammad Masoom** (`CBAJoker`), a Computer Science Undergraduate driven by relentless curiosity across the entire computing spectrum. Rather than siloing into a single narrow niche, I operate as a **versatile generalist**—equally comfortable dissecting low-level memory structures, orchestrating local AI pipelines, hardening environments, or architecting full-stack applications.
 
-DOMAINS_OF_OPERATION:
-  - AI & Local LLMs: "Running & experimenting with local models via Ollama, prompt & pipeline tinkering"
-  - Reverse Engineering & Game Modding: "Memory inspection, binary patching & game hacks via Ghidra & Cheat Engine"
-  - Cybersecurity & OSINT: "Packet analysis, network topologies, finding hidden gems across the internet"
-  - Low-Level & Systems Architecture: "OS internals, BIOS, Hypervisors, 8086 Assembly (emu8086), Linux & WSL environments"
-  - Automation & Media Pipelines: "Bash/PowerShell scripting, data aggregation, custom environment setups, yt-dlp/JDownloader workflows"
-
-STATUS:
-  current_focus: "Tracking bleeding-edge CS research, squashing bugs, and turning wild ideas into working scripts"
-  philosophy: "Why specialize in one box when the whole machine is waiting to be taken apart?"
-```
+| Pillar of Expertise | Core Focus & Capabilities |
+| :--- | :--- |
+| **Ⅰ. Artificial Intelligence & Local LLMs** | Running and orchestrating quantized open-weight models locally via **Ollama**, prompt engineering, and autonomous script pipelines. |
+| **Ⅱ. Reverse Engineering & Game Modding** | Binary inspection, runtime memory analysis, game modifications, and low-level debugging using **Ghidra** and **Cheat Engine**. |
+| **Ⅲ. Systems Architecture & Low-Level Computing** | Operating System internals, BIOS/UEFI boot flows, Hypervisors, **8086 Microprocessor Assembly (`emu8086`)**, and custom **Linux / WSL2** environments. |
+| **Ⅳ. Cybersecurity, Networking & OSINT** | Deep packet inspection (**Wireshark**), network topology simulation (**Cisco Packet Tracer**), remote administration (**PuTTY**), and advanced web reconnaissance. |
+| **Ⅴ. Automation, Scripting & Media Pipelines** | Workstation provisioning, custom **Bash / PowerShell** automation, data aggregation, and automated archival workflows (**yt-dlp**, **JDownloader**, **TMDB API**). |
 
 ---
 
-## 🛠️ `root@CBAJoker:~# ls -la /usr/local/arsenal/`
+### 🏛️ II. CURATED TECHNICAL ARSENAL
 
-### 💻 Languages & Core Stack
-
-         
-
-### 🕵️‍♂️ Reverse Engineering, Networking & Local AI
-
-     
-
-### ⚙️ OS, Environments, IDEs & Daily Drivers
-
-           
+| Domain | Technologies, Languages & Instruments |
+| :--- | :--- |
+| **Core Languages** | `Python` · `C` · `C++` · `C#` · `x86 Assembly (emu8086)` · `JavaScript` · `HTML5` · `CSS3` |
+| **Shell & Automation** | `Bash` · `PowerShell` · `Custom Provisioning Pipelines` · `Data Aggregators` |
+| **Reverse Engineering & Security** | `Ghidra` · `Cheat Engine` · `Wireshark` · `Cisco Packet Tracer` · `PuTTY` · `OSINT Tooling` |
+| **AI & Knowledge Systems** | `Ollama (Local LLMs)` · `Obsidian (Second Brain & Research Vault)` |
+| **Infrastructure & OS** | `Linux Distros` · `WSL2` · `Windows 11 Custom Environments` · `Docker` · `Hypervisors` · `Git` |
+| **IDEs & Engineering Suite** | `VS Code` · `Visual Studio` · `Android Studio` · `GitHub Desktop` · `GNU Nano` |
+| **Media & Utility Stack** | `Steam (Modding & Gaming)` · `yt-dlp` · `JDownloader` · `TMDB API Integration` |
 
 ---
 
-## 🌐 `root@CBAJoker:~# curl -I https://cbajoker.github.io/Portfolio/`
+### 💎 III. SIGNATURE WORKS & LABS
 
-> 🚀 **Live Web Portal**: Check out my interactive portfolio and project showcase hosted on GitHub Pages: **[https://cbajoker.github.io/Portfolio/](https://cbajoker.github.io/Portfolio/)**
+> **🔗 Live Showcase:** Explore interactive demos and extended documentation on my [Official Portfolio Website](https://cbajoker.github.io/Portfolio/).
 
-## 📂 `root@CBAJoker:~# ls -l /home/CBAJoker/featured_projects/`
-
-| Project / Lab | Stack & Tools | Status | Overview |
+| Initiative | Architecture & Stack | Status | Executive Summary |
 | :--- | :--- | :---: | :--- |
-| 🪟 **Windows 11 Student Environment Setup** | `PowerShell` `Bash` `WSL2` `Win11` | 🟢 **Active** | Automated provisioning scripts, debloating tweaks, and dev-tool pipelines to bootstrap a clean Windows 11 workstation for CS students. |
-| 🎬 **Local Movie Management System** | `Python` `TMDB API` `Local DB` `UI` | 🟢 **Completed** | Offline-capable local media indexer and catalog manager that fetches rich metadata, posters, and ratings via the TMDB API. |
-| 🎓 **University Event Management System** | `Web Dev` `C# / Python` `SQL` | 🟡 **Debugging** | Full-featured campus event scheduling, registration, and coordination platform *(currently squashing edge-case bugs & refining workflows)*. |
+| **01. Windows 11 Student Environment Suite** | `PowerShell` · `Bash` · `WSL2` · `System Registry` | **Active Production** | End-to-end workstation provisioning scripts, telemetry debloating, and automated developer environment setup tailored for Computer Science students. |
+| **02. Offline Local Movie Management System** | `Python` · `TMDB API` · `Local Storage` · `Desktop UI` | **Completed** | High-speed offline media cataloger and library manager that automatically enriches local video collections with metadata, posters, and ratings via the TMDB API. |
+| **03. University Event Management Platform** | `Full-Stack Web` · `C# / Python` · `Relational DB` | **Refinement Phase** | Comprehensive campus event scheduling, attendee registration, and administrative coordination platform *(actively resolving edge-case bugs and optimizing workflows)*. |
 
 ---
 
-## 📡 `root@CBAJoker:~# tail -n 10 /var/log/field_notes.log`
+### 📜 IV. RESEARCH CHRONICLES & FIELD NOTES
 
-- **`[2026-10]` 🧠 Exploring Local LLM Pipelines with Ollama** — Testing quantized open-weight models locally and wiring up lightweight script pipelines without relying on cloud APIs.
-- **`[2026-10]` 🔍 Memory Inspection, Game Modding & Binary Tinkering** — Dissecting game binaries and runtime memory structures using **Ghidra** and **Cheat Engine** to understand how engines handle state under the hood.
-- **`[2026-09]` 🖥️ Hypervisors, BIOS & Low-Level Systems** — Digging into 8086 microprocessor instructions (`emu8086`), OS boot sequences, and virtualized Linux/WSL2 lab environments.
-- **`[2026-08]` 📦 Media Archival & OSINT Automation** — Combining `yt-dlp`, `JDownloader`, and custom scripts with **TMDB API** metadata fetching to organize local offline media libraries.
+*A manually curated journal of ongoing experiments, architectural deep-dives, and emerging technology trends:*
 
----
-
-## 🎧 `root@CBAJoker:~# systemctl status spotifyd.service`
-
-[](https://open.spotify.com)
-
-> *To show live real-time tracks: connect your account at [spotify-github-profile](https://github.com/kittinan/spotify-github-profile) and replace the image URL above with your generated SVG link.*
+- **`OCTOBER 2026` · Sovereign Local AI Pipelines with Ollama**
+  Experimenting with local inference of open-weight language models, optimizing context windows on consumer hardware, and wiring local LLMs into everyday shell and coding workflows without cloud dependencies.
+- **`OCTOBER 2026` · Binary Anatomy & Runtime Memory Manipulation**
+  Deconstructing compiled binaries and game engines using **Ghidra** and **Cheat Engine** to study how state, pointers, and memory allocation behave in real time.
+- **`SEPTEMBER 2026` · Bare-Metal Systems: From 8086 Assembly to Hypervisors**
+  Tracing execution from register-level instructions in `emu8086` and BIOS initialization up through modern hypervisor virtualization and Linux kernel subsystems.
+- **`AUGUST 2026` · Automated Media Archival & Metadata Indexing**
+  Engineering resilient offline-first pipelines combining `yt-dlp`, `JDownloader`, and custom Python scripts backed by **TMDB API** synchronization.
 
 ---
 
-## 📊 `root@CBAJoker:~# htop --user=CBAJoker`
+### 🎼 V. AMBIENT ROTATION & LIVE TELEMETRY
 
-### 🏆 GitHub Trophies
+#### 🎧 Currently On Rotation
+- **Audio Stream:** *Late-Night Deep Focus · Dark Classical, Synthwave & Ambient Lo-Fi* — [Open on Spotify](https://open.spotify.com)
 
-[CBAJoker GitHub Trophies](https://www.google.com/search?q=https://github.com/CBAJoker)
+#### 📊 GitHub Analytics & Live Widgets (`Obsidian & Gold Edition`)
+*Note: Copy and paste the raw code block below directly into your GitHub `README.md` editor if you want live-updating Gold & Obsidian SVG cards on your profile:*
 
-### 📈 Telemetry, Streaks & Top Languages
+```markdown
+![Header Banner](https://capsule-render.vercel.app/api?type=rect&color=0:0B0C10,50:14161D,100:0B0C10&height=140&section=header&text=MUHAMMAD%20MASOOM&fontSize=42&fontColor=D4AF37&fontAlignY=45&desc=%E2%9C%A6%20COMPUTER%20SCIENCE%20UNDERGRADUATE%20%C2%B7%20POLYMATH%20SYSTEMS%20EXPLORER%20%E2%9C%A6&descSize=14&descColor=C5C6C7&descAlignY=72&stroke=D4AF37&strokeWidth=1)
 
- 
+[![Typing Animation](https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=20&duration=3500&pause=1200&color=D4AF37&center=true&vCenter=true&width=850&height=55&lines=AI+%26+Local+LLMs+%C2%B7+Reverse+Engineering+%C2%B7+Systems+Architecture;Cybersecurity+%26+OSINT+%C2%B7+Game+Modding+%C2%B7+Automation+Pipelines;Jack+of+All+Trades+%E2%80%94+Relentless+Explorer+of+Computer+Science)](https://cbajoker.github.io/Portfolio/)
 
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=CBAJoker&theme=gruvbox&no-frame=true&no-bg=true&margin-w=10&row=1&column=7)](https://github.com/CBAJoker)
 
-
-
-
----
-
-```text
-[ SESSION TERMINATED ] — "Stay curious, inspect the packets, and keep modding the world."
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CBAJoker&show_icons=true&hide_border=true&bg_color=0B0C10&title_color=D4AF37&icon_color=D4AF37&text_color=E5E7EB)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CBAJoker&hide_border=true&background=0B0C10&ring=D4AF37&fire=F3E5AB&currStreakLabel=D4AF37&sideLabels=C5C6C7&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CBAJoker&layout=compact&hide_border=true&bg_color=0B0C10&title_color=D4AF37&text_color=E5E7EB&langs_count=8)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CBAJoker&hide_border=true&bg_color=0B0C10&color=D4AF37&line=D4AF37&point=F3E5AB&area=true&area_color=D4AF37)
 ```
 
+---
+
+**✦ MUHAMMAD MASOOM (`CBAJoker`)** · [Portfolio](https://cbajoker.github.io/Portfolio/) · [Email](mailto:cadetmasoom@gmail.com) · *Crafted with Precision & Curiosity*
